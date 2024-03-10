@@ -1,0 +1,8 @@
+[
+{
+  "directory": "E:/CMU_Spring sem 2024/DSA/Assignment2/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\assignment.dir\\src\\nuwajene\\assignment.cpp.obj -c \"E:\\CMU_Spring sem 2024\\DSA\\Assignment2\\src\\nuwajene\\assignment.cpp\"",
+  "file": "E:\\CMU_Spring sem 2024\\DSA\\Assignment2\\src\\nuwajene\\assignment.cpp",
+  "output": "CMakeFiles\\assignment.dir\\src\\nuwajene\\assignment.cpp.obj"
+}
+]
